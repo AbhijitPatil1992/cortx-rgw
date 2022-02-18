@@ -6,6 +6,7 @@ For documentation patches the following guide will help you get started
 
 `Documenting Ceph`_
 
+
 Performance enhancements must come with test data and detailed
 explanations.
 
